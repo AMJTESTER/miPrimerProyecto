@@ -1,2 +1,3 @@
 Lista de Objetivos para el Curso:
  1. Asimilar los conceptos, desde el punto de vista de un fullstack developer, que requiere la programión de una aplicación. 
+ 2. Adquirir conocimiento transversales que pueda apicar en mi profesión como QA tester.
